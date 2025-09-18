@@ -1,100 +1,100 @@
-Johnny Coder
+Will Schumacher
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Multi-talented software engineer successful at completing simultaneous projects. Team-oriented, willing
+to jump into any issue, and able to develop principled and pragmatic solutions. Decisive and thoughtful
+leader with a driven approach and a passion for learning new paradigms and technologies.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Senior Software Engineer at Iterative Health - Cambridge, MA (2022-11 - 2025-05)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+- Redesigned and rebuilt a legacy data de-identification service leading to a significant increase
+in reliability and visibility while also reducing our de-identification failure rate by over 90%.
 
-* First item
+- Designed and built monitoring and alerting systems in Grafana to centralize our metric collection
+and alerting.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Worked closely with sales and other non-technical teammates to build tooling, significantly
+streamlining workflows and reducing the time required for onboarding and tracking patient journeys.
 
-**That Other Job You Had**
+- Worked closely with machine learning engineers to aid in the productionization of models enabling
+easy deployment of models in our Kubernetes cluster.
 
-Also with a short description.
+- Oversaw many projects primarily executed by junior team members, providing oversight, guidance,
+and mentorship.
 
-Technical Experience
+**Software Development Engineer II at Amazon - Seattle, WA (2021-02 - 2022-03)**
+
+- Led the design and implementation of a new routing algorithm in the EU region leading to
+significant efficiency gains in planning.
+- Built internal team specific tooling allowing the automation of common tasks, reducing their time
+cost from hours to minutes.
+- Redesigned the core decision pruning component of routing algorithm to reduce its runtime from ~30
+minutes to < 1 minute with no loss in efficiency.
+
+**Senior Software Engineer at MetricStory - Seattle, WA (2019-03 - 2020-08)**
+
+- Led team of six engineers.
+- Communicated with engineering and business teams to ensure proper engineering focus and direction.
+- Led design meetings and ensured that system designs adequately met product needs while remaining
+flexible enough to adapt to changing requirements.
+- Designed and built a service for interacting with third party APIs to enable automating the
+management of our clients' resources.
+
+**Software Engineer at MetricStory - Seattle, WA (2016-08 - 2019-08)**
+
+- Designed practical and flexible core APIs to enable clear and concise communication between
+services.
+- Designed and built a service for querying, joining, and transforming time series data backed by
+various internal and third party data sources.
+- Performed numerous tuning and performance improvements dropping peak and total memory usage of
+core service by 50%-90% and dropping response times from minutes to seconds.
+- Designed and built caching and pre-warming systems to reduce query time for commonly used data
+within our application.
+- Designed and built systems for tracking customer usage across our application to inform product
+decisions and gauge customer health.
+
+Education
+---------
+
+2008-2012
+:   **BA, Physics**; Cornell College (Mount Vernon, IA)
+
+    **BA, Philosophy**; Cornell College (Mount Vernon, IA)
+
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python:** 10+ years experience building microservices, Flask and
+    GraphQL web servers, data ingestion pipelines, ML models and
+    other data science work, and various scripting and tooling.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Go:** 4+ years experience building microservices, data ingestion,
+    aggregation, and computation, and various other core services.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Java:** 2+ years experience (1+ professionally) building route
+    computation solvers with an emphasis on performance, and various
+    math modeling and computational physics work.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **JavaSript:** 4+ years experience with some front end work in
+    Angular and React as well as back end web servers in Node.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   Basic knowledge of **C**, **Ruby**, **Lua**
 
-* Human Languages:
+Cloud
+:   **AWS**, **GCP**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Other
+:   **API Design**, **Redis**, **Grafana**, **PostgreSQL**, **GraphQL**
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <willjschumacher@gmail.com> • +1 (206) 388-8795 • Seattle, WA
