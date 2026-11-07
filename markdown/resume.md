@@ -84,7 +84,7 @@ Programming Languages
     computation solvers with an emphasis on performance, and various
     math modeling and computational physics work.
 
-:   **JavaSript:** 4+ years experience with some front end work in
+:   **JavaScript:** 4+ years experience with some front end work in
     Angular and React as well as back end web servers in Node.
 
 :   Basic knowledge of **C**, **Ruby**, **Lua**
@@ -93,7 +93,7 @@ Cloud
 :   **AWS**, **GCP**
 
 Other
-:   **API Design**, **Redis**, **Grafana**, **PostgreSQL**, **GraphQL**
+:   **API Design**, **Redis**, **Grafana**, **PostgreSQL**, **GraphQL**, **Distributed Systems**
 
 ----
 
